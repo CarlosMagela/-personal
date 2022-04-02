@@ -1,0 +1,1 @@
+web: gunicorn newpersonal.wsgi --log-file -
